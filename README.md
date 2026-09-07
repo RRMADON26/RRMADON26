@@ -1,6 +1,6 @@
 # Rizky Romadon
 
-*"I see a light in the darkness"*
+*I build the boring parts so nothing else has to be.*
 
 Backend engineer based in Jakarta, building reliable Java/Spring Boot systems and cross-platform mobile apps with React Native/Expo.
 
