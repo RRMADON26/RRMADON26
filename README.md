@@ -2,17 +2,15 @@
 
 *"I see a light in the darkness"*
 
-Backend engineer based in Jakarta, focused on Java/Spring Boot systems — reliability, idempotency, and the details that keep production boring.
+Backend engineer based in Jakarta, building reliable Java/Spring Boot systems and cross-platform mobile apps with React Native/Expo.
 
 ## Building
 
-**[palang](https://github.com/RRMADON26/palang)** — Duplicate request suppression for Spring Boot: idempotent requests with byte-identical response replay, backed by memory or Redis.
-
-**[virtual-thread](https://github.com/RRMADON26/virtual-thread)** — Exploring Java virtual threads for high-concurrency workloads.
+**[palang](https://github.com/RRMADON26/palang)** — Duplicate request suppression for Spring Boot, shipped as `v0.3.0` on JitPack. Idempotent requests get byte-identical response replay, backed by memory or Redis.
 
 ## Stack
 
-Java · Spring Boot · TypeScript · Next.js · PostgreSQL · Redis · Docker
+Java · Spring Boot · TypeScript · React Native · Expo · PostgreSQL · Redis · Docker
 
 ## Elsewhere
 
