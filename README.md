@@ -12,6 +12,10 @@ Backend engineer based in Jakarta, building reliable Java/Spring Boot systems an
 
 Java · Spring Boot · TypeScript · React Native · Expo · PostgreSQL · Redis · Docker
 
+## Writing
+
+Latest: [Production-Grade Java Metrics: Histograms, Percentiles, and SLOs with Micrometer and OpenTelemetry](https://rrmadon.com/blog/java-production-metrics-micrometer-opentelemetry-histograms-slos) on [Beyond the Prompt](https://rrmadon.com)
+
 ## Elsewhere
 
-[LinkedIn](https://www.linkedin.com/in/rizky-romadon-24241b132/) · [Medium](https://medium.com/@dev.rrmadon)
+[rrmadon.com](https://rrmadon.com) · [LinkedIn](https://www.linkedin.com/in/rizky-romadon-24241b132/)
